@@ -1,0 +1,9 @@
+Master Dataset Summary
+====================
+
+Total Records: 1063620
+Unique Restaurants: 9022
+Cities Covered: 5
+Average Temperature: 39.7°F
+Restaurants with Delivery: 124865 (11.7%)
+Most Common Cuisine: Unknown
