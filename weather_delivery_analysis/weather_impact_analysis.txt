@@ -1,0 +1,15 @@
+Weather Impact on Food Delivery Analysis
+=====================================
+
+Temperature Effects:
+- Correlation with delivery: -0.150
+- Highest delivery rate: Very Cold
+- Lowest delivery rate: Moderate
+
+Precipitation Effects:
+- Correlation with delivery: -0.029
+- Rain vs No Rain delivery ratio: 0.85
+
+Wind Effects:
+- Correlation with delivery: 0.052
+- Optimal wind conditions: Very Strong
